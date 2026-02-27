@@ -2,7 +2,6 @@
 asyncio
 dotenv
 functools
-health_bot
 json
 langchain==0.3.27
 langchain_community==0.3.31
@@ -15,4 +14,5 @@ pydantic==2.12.3
 streamlit==1.39.0
 typing
 uuid
+
 
