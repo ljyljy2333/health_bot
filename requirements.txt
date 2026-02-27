@@ -1,18 +1,18 @@
 # Python 3.11.14
-asyncio
-dotenv
-functools
-json
+# Streamlit web app
+streamlit==1.39.0
+rich
+
+# LangChain 相关
 langchain==0.3.27
 langchain_community==0.3.31
 langchain_core==0.3.83
 langchain_openai==0.2.3
 langgraph==1.0.1
-operator
-os
-pydantic==2.12.3
-streamlit==1.39.0
-typing
-uuid
 
+# 数据模型与验证
+pydantic==2.12.3
+
+# 其他工具
+python-dotenv
 
