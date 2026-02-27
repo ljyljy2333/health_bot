@@ -1,0 +1,18 @@
+# Python 3.11.14
+agent_executor
+asyncio
+dotenv
+functools
+health_bot
+json
+langchain==0.3.27
+langchain_community==0.3.31
+langchain_core==0.3.83
+langchain_openai==0.2.3
+langgraph==1.0.1
+operator
+os
+pydantic==2.12.3
+streamlit==1.39.0
+typing
+uuid
